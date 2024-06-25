@@ -18,3 +18,7 @@ p {
     height: 600px;
     margin: 0 auto;
 }
+.foo 
+{background-color: red;}
+.row
+{padding: 5px;}
